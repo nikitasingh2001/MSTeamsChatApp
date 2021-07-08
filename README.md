@@ -19,12 +19,12 @@ A **Real-Time** chat application with multiple rooms and video chat facilities
 ### Auto Scroll down on spamming of messages
 ![image](https://user-images.githubusercontent.com/69220037/124860019-8b676c00-dfce-11eb-9eb4-e60650c575cc.png)
 
-### Leave Room facility if you want to end the chat and video call chat facility if you want to have face-to-face conversation 
+### Leave Room facility if you want to end the chat and video call facility if you want to have face-to-face conversation 
 ![image](https://user-images.githubusercontent.com/69220037/124860369-28c2a000-dfcf-11eb-8c11-f2794e58a3cb.png)
 
 ### Dependencies you need to install for local set up
 ### `npm install`
-Run this in both server and client directories to installs all dependencies required for the app to run
+Run this to installs all dependencies required for the app to run
 <ul>
   <li>npm install express</li>
   <li>npm install socket.io</li>
