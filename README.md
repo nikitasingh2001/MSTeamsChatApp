@@ -24,7 +24,7 @@ A **Real-Time** chat application with multiple rooms and video chat facilities
 
 ### Dependencies you need to install for local set up
 ### `npm install`
-Run this to installs all dependencies required for the app to run
+Run this to install all dependencies required for the app to run
 <ul>
   <li>npm install express</li>
   <li>npm install socket.io</li>
