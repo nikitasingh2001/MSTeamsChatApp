@@ -8,6 +8,9 @@ A **Real-Time** chat application with multiple rooms and video chat facilities
 ## **Live Demo** - https://teamschatapp.herokuapp.com/
 ## Preview 
 ### Join Page
+![image](https://user-images.githubusercontent.com/69220037/124859195-10ea1c80-dfcd-11eb-90aa-936461334dff.png)
+### Chat Box ui
+
 
 
 
